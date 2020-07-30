@@ -41,7 +41,7 @@ Christopher Turton
 # Test
 Going to the website listed above.
 Here is a gif of what it looks like:
-![](.\public\budget-tracker.gif)
+![](./public/budget-tracker.gif)
 
 
 # Questions
